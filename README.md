@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bobroh
+- 👀 I’m interested in warp
+- 🌱 I’m currently learning CF
